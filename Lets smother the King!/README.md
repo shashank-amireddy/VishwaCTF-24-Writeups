@@ -1,4 +1,4 @@
-# BitBane - Lets smother the King!
+# Lets smother the King!
 * **Event:** VishwaCTF
 * **Problem Type:** Crypto
 * **Point Value / Difficulty:** Medium
