@@ -1,4 +1,4 @@
-# BitBane - Happy Valentine's Day
+# Happy Valentine's Day
 * **Event:** VishwaCTF
 * **Problem Type:** Crypto
 * **Point Value / Difficulty:** Easy
