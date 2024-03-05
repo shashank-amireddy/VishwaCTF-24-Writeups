@@ -1,0 +1,14 @@
+In sources we get a script file (script.js) which has all the answers for 4 puzzles 
+    1. enigma m3
+    2. ukw c
+    3. rotor1 i p m rotor2 iv a o rotor3 vi i n
+    4. vi sh wa ct fx
+
+after submiting this we get a picture with cipher text
+    CYNIPJ_RE_LSKR-YAZN_MBSJ
+
+the solutions for first 4 puzzles give us the exact specifications of the enigma machine
+
+bewar eofto nedea fbard      you will get this
+beware of tonedeaf bard
+VishwaCTF{beware_of_tone-deaf_bard} this is the flag
