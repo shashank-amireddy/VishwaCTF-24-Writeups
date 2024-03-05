@@ -1,4 +1,4 @@
-# BitBane - Teyvat Tales
+# Teyvat Tales
 * **Event:** VishwaCTF
 * **Problem Type:** Crypto
 * **Point Value / Difficulty:** Medium
